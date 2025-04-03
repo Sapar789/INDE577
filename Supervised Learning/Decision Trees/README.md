@@ -1,5 +1,7 @@
 # Decision Trees for Texas Weather Classification
 
+![Decision Tree Example](/imgs/decision_tree.png)
+
 This section demonstrates the implementation of Decision Trees for classifying weather conditions in Texas, specifically focusing on identifying stormy weather patterns. The goal is to understand which weather features are most important for predicting storm conditions.
 
 ## Overview
