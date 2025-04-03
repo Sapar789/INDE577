@@ -3,7 +3,7 @@
 This section demonstrates the implementation of the Perceptron algorithm for classifying weather conditions in Texas, specifically focusing on identifying rainy vs. non-rainy days. The goal is to understand how a single-layer neural network can learn to classify weather patterns.
 
 ## Overview
-The Perceptron is one of the simplest forms of artificial neural networks, consisting of a single layer of weights and a threshold activation function. In this implementation, we build a Perceptron from scratch to classify weather conditions, demonstrating the fundamentals of neural network learning.
+The Perceptron is one of the simplest forms of artificial neural networks, consisting of a single layer of weights and a threshold activation function. In this implementation, we build a Perceptron from scratch to classify weather conditions, demonstrating the fundamentals of neural network learning..
 
 ## Texas Weather Data Features
 The following features are used for classification:
