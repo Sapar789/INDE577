@@ -1,6 +1,8 @@
 # Perceptron for Texas Weather Classification
 
-![Texas Weather Classification](images/https://www.researchgate.net/profile/Md-Al-Masrur-Khan/publication/372405916/figure/fig7/AS:11431281175096725@1689583258129/Illustration-of-a-single-neuron-perceptron.png)
+![](https://www.researchgate.net/profile/Md-Al-Masrur-Khan/publication/372405916/figure/fig7/AS:11431281175096725@1689583258129/Illustration-of-a-single-neuron-perceptron.png)
+
+
 
 This section demonstrates the implementation of the Perceptron algorithm for classifying weather conditions in Texas, specifically focusing on identifying rainy vs. non-rainy days. The goal is to understand how a single-layer neural network can learn to classify weather patterns.
 
