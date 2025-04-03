@@ -1,6 +1,6 @@
 # Perceptron for Texas Weather Classification
 
-![](https://www.researchgate.net/profile/Md-Al-Masrur-Khan/publication/372405916/figure/fig7/AS:11431281175096725@1689583258129/Illustration-of-a-single-neuron-perceptron.png)
+![Single neuron perceptron](https://www.researchgate.net/profile/Md-Al-Masrur-Khan/publication/372405916/figure/fig7/AS:11431281175096725@1689583258129/Illustration-of-a-single-neuron-perceptron.png)
 
 
 
