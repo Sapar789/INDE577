@@ -1,5 +1,7 @@
 # K-Nearest Neighbors (KNN) Algorithm
 
+![KNN Algorithm Illustration](/imgs/k_nearest.png)
+
 ## Overview
 This directory contains an implementation of the K-Nearest Neighbors algorithm applied to Texas weather classification. The implementation demonstrates how KNN can be used to classify weather conditions as either "extremely hot" or "normal" based on various weather features.
 
