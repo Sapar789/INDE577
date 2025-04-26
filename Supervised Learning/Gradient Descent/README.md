@@ -3,7 +3,7 @@
 # **Gradient Descent Solar Radiation Prediction Project**  
 ___
 
-![alt text](../../imgs/gradient-descent.jpg)
+![alt text](../../imgs/gradient_descent.jpg)
 
 ## **Overview**  
 
@@ -46,7 +46,7 @@ This notebook demonstrates how to create a **Gradient Descent-based model** to p
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 After completing this project, you will:
 
